@@ -5,9 +5,9 @@ url                          : "" # the base hostname & protocol for your site
                                   # `http://<username>.github.io` - for GitHub
 
 blog:
-  title                      : dactl
+  title                      : Tschen Learns Something
   description                  : >
-                               this should contain a proper description
+                               Learn something useful to become a better engineers
 
 # Layout configuration
   logo_path                  : "assets/img/dactl.svg" # path to logo file
