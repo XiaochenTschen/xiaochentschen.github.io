@@ -6,12 +6,12 @@ url                          : "" # the base hostname & protocol for your site
 
 blog:
   title                      : Tschen Learns Something
-  description                  : >
-                               Learn something useful to become a better engineers
+  description                : >
+                               Learn something useful to become a better engineer
 
 # Layout configuration
   logo_path                  : "assets/img/dactl.svg" # path to logo file
-  search_path                : # "yourgitusername.github.io"
+  search_path                : "xiaochentschen.github.io"
                                # needed for searchbox in archive page
   hero_layout                : true # turn on hero layout for blog and posts
   hero_placeholder           : "assets/img/generic_hero.jpg" # placeholder for hero image
@@ -26,17 +26,17 @@ blog:
 
 # Author info
 author:
-  fullname                  : Your Name
-  rss                       : true # generate RSS feed and show it's icon in header
-  mail                      : your@email.com # change to your e-mail address
-  twitter                   : twitter-user-name
-  github                    : github-user-name
-  youtube                   : youtube-user-name
-  stackoverflow             : stackoverflow-user-name
-  disqus                    : dactl # your disqus site name
-  google_analytics          : # 'UA-XXXXXXXX-X'
-  photo                     : "uploads/me2.png"
-  photo2x                   : "uploads/me.png"
+  fullname                  : Tschen
+  # rss                       : true # generate RSS feed and show it's icon in header
+  # mail                      : your@email.com # change to your e-mail address
+  # twitter                   : twitter-user-name
+  github                    : XiaochenTschen
+  # youtube                   : youtube-user-name
+  # stackoverflow             : stackoverflow-user-name
+  # disqus                    : dactl # your disqus site name
+  # google_analytics          : # 'UA-XXXXXXXX-X'
+  # photo                     : "uploads/me2.png"
+  # photo2x                   : "uploads/me.png"
 
 
 

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About
+title: About Me
 permalink: /about/
 published: true
 ---
@@ -18,8 +18,12 @@ published: true
 
 {% include page/title.html title=page.title subtitle=page_subtitle %}
 
-## Some heading 
+## Embedded Software Engineer
 
-I'll alert the crew. Sure. You'd be surprised how far a hug goes with Geordi, or Worf. Did you come here for something in particular or just general Riker-bashing? You did exactly what you had to do. You considered all your options, you tried every alternative and then you made the hard choice. Your shields were failing, sir. Well, that's certainly good to know. A surprise party? Mr. Worf, I hate surprise parties. I would *never* do that to you. And blowing into maximum warp speed, you appeared for an instant to be in two places at once. How long can two people talk about nothing? I recommend you don't fire until you're within 40,000 kilometers. Congratulations - you just destroyed the Enterprise. Worf, It's better than music. It's jazz. Yes, absolutely, I do indeed concur, wholeheartedly! What's a knock-out like you doing in a computer-generated gin joint like this? I can't. As much as I care about you, my first duty is to the ship. Some days you get the bear, and some days the bear gets you.
+As an engineer with an academic background in automotive engineering, it took me some time to transition to a different career direction. I have experience working as a development engineer in vehicle electronics, focusing on HiL testing and thermal management software development within the AUTOSAR framework. Currently, I am working as a software engineer specializing in non-AUTOSAR platform development.
+
+Beyond my job responsibilities, I am deeply interested in MCU programming, whether using RTOS or bare-metal programming. I thoroughly enjoy exploring the details and understanding how every piece of code works.
+
+Writing blogs has become a valuable part of my learning process. It not only reinforces my understanding but also provides an opportunity to share knowledge and help others.
 
 </div>
